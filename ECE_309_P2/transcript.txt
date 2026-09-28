@@ -1,0 +1,20 @@
+role: system
+Be concise.
+---
+role: user
+3+4
+---
+role: assistant
+I am doing well, thank you! How can I help you?
+---
+role: user
+3+4
+---
+role: assistant
+I can definitely do that for you. Anything else?
+---
+role: user
+3+4
+---
+role: assistant
+Goodbye!<|end_conversation|>

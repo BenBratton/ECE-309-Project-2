@@ -1,0 +1,4 @@
+/mnt/c/Users/marcj/OneDrive/ECE_309_P2/build/CMakeFiles/miniharness.dir
+/mnt/c/Users/marcj/OneDrive/ECE_309_P2/build/CMakeFiles/test_p2.dir
+/mnt/c/Users/marcj/OneDrive/ECE_309_P2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/marcj/OneDrive/ECE_309_P2/build/CMakeFiles/rebuild_cache.dir
